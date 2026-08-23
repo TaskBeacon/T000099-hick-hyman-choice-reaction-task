@@ -1,0 +1,97 @@
+task_id: T000099
+generated_at: '2026-08-23T15:59:19Z'
+selection_policy: tiered_mix_high_impact_plus_high_citation_open_access
+citation_threshold: 100
+papers:
+- id: W1990242729
+  title: On the Rate of Gain of Information
+  authors:
+  - W. E. Hick
+  year: 1952
+  journal: Quarterly Journal of Experimental Psychology
+  doi_or_url: https://doi.org/10.1080/17470215208416600
+  citation_count: 2258
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - historical_origin
+  - choice_set_manipulation
+  - keypress_mapping
+  - information_model
+  parameter_bindings:
+    task.set_sizes:
+    - 2
+    - 4
+    - 8
+    analysis.model: RT = a + b log2(N)
+  notes: A publicly readable institutional copy is available from the University of
+    Iowa information-processing archive. Citation count is from OpenAlex on 2026-08-23.
+- id: W2014448832
+  title: Stimulus information as a determinant of reaction time
+  authors:
+  - Ray Hyman
+  year: 1953
+  journal: Journal of Experimental Psychology
+  doi_or_url: https://doi.org/10.1037/h0056940
+  citation_count: 1456
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - equiprobable_alternatives
+  - stimulus_probability
+  - blockwise_information
+  - information_model
+  parameter_bindings:
+    task.information_bits:
+    - 1
+    - 2
+    - 3
+    task.condition_probability: 1/N
+  notes: A publicly readable institutional copy is available from the University of
+    Iowa information-processing archive. Citation count is from OpenAlex on 2026-08-23.
+- id: W2608251392
+  title: 'Hick''s law for choice reaction time: A review'
+  authors:
+  - Robert W. Proctor
+  - Darryl W. Schneider
+  year: 2018
+  journal: Quarterly Journal of Experimental Psychology
+  doi_or_url: https://doi.org/10.1080/17470218.2017.1322622
+  citation_count: 128
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - historical_synthesis
+  - valid_set_size_range
+  - practice_and_compatibility_limits
+  - sequential_effects
+  parameter_bindings:
+    task.set_sizes:
+    - 2
+    - 4
+    - 8
+    analysis.sequential_covariates:
+    - is_repetition
+    - previous_target_position
+  notes: The author manuscript is publicly readable from Purdue University. Citation
+    count is from OpenAlex on 2026-08-23.
+- id: W2965135644
+  title: Optimal policy for multi-alternative decisions
+  authors:
+  - Satohiro Tajima
+  - Jan Drugowitsch
+  - Nisheet Patel
+  - Alexandre Pouget
+  year: 2019
+  journal: Nature Neuroscience
+  doi_or_url: https://doi.org/10.1038/s41593-019-0453-9
+  citation_count: 102
+  is_high_impact: true
+  open_access: true
+  used_for:
+  - multi_alternative_decision_context
+  - theoretical_boundary
+  parameter_bindings: {}
+  notes: Included to satisfy the high-impact open-access evidence requirement and
+    to contextualize multi-alternative decisions; it is not used to infer participant-facing
+    protocol details.

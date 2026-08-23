@@ -1,0 +1,1719 @@
+[
+  {
+    "id": "W2080834410",
+    "title": "Speed/Accuracy Trade-Off between the Habitual and the Goal-Directed Processes",
+    "authors": [
+      "Mehdi Keramati",
+      "Amir Dezfouli",
+      "Payam Piray"
+    ],
+    "year": 2011,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1002055",
+    "citation_count": 375,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2808048733",
+    "title": "Understanding and Resolving Failures in Human-Robot Interaction: Literature Review and Model Development",
+    "authors": [
+      "Shanee Honig",
+      "Tal Oron-Gilad"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2018.00861",
+    "citation_count": 327,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2150489374",
+    "title": "Information theory, novelty and hippocampal responses: unpredicted or unpredictable?",
+    "authors": [
+      "Bryan A. Strange",
+      "Andrew Duggins",
+      "W.D. Penny",
+      "Raymond J. Dolan",
+      "Karl Friston"
+    ],
+    "year": 2005,
+    "journal": "Neural Networks",
+    "doi_or_url": "https://doi.org/10.1016/j.neunet.2004.12.004",
+    "citation_count": 275,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2106945857",
+    "title": "An information theory account of cognitive control",
+    "authors": [
+      "Jin Fan"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2014.00680",
+    "citation_count": 211,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2950005233",
+    "title": "An information-theoretic perspective on the costs of cognition",
+    "authors": [
+      "Alexandre Z\u00e9non",
+      "Oleg Solopchuk",
+      "Giovanni Pezzulo"
+    ],
+    "year": 2018,
+    "journal": "Neuropsychologia",
+    "doi_or_url": "https://doi.org/10.1016/j.neuropsychologia.2018.09.013",
+    "citation_count": 148,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2973861512",
+    "title": "Eye pupil signals information gain",
+    "authors": [
+      "Alexandre Z\u00e9non"
+    ],
+    "year": 2019,
+    "journal": "Proceedings of the Royal Society B Biological Sciences",
+    "doi_or_url": "https://doi.org/10.1098/rspb.2019.1593",
+    "citation_count": 115,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2101635945",
+    "title": "Pupil dilation in response preparation",
+    "authors": [
+      "Sofie Moresi"
+    ],
+    "year": 2007,
+    "journal": "International Journal of Psychophysiology",
+    "doi_or_url": "https://doi.org/10.1016/j.ijpsycho.2007.10.011",
+    "citation_count": 106,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2965135644",
+    "title": "Optimal policy for multi-alternative decisions",
+    "authors": [
+      "Satohiro Tajima",
+      "Jan Drugowitsch",
+      "Nisheet Patel",
+      "Alexandre Pouget"
+    ],
+    "year": 2019,
+    "journal": "Nature Neuroscience",
+    "doi_or_url": "https://doi.org/10.1038/s41593-019-0453-9",
+    "citation_count": 102,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4385477004",
+    "title": "Debates on the dorsomedial prefrontal/dorsal anterior cingulate cortex: insights for future research",
+    "authors": [
+      "Nicolas Clairis",
+      "Aliz\u00e9e Lopez\u2010Persem"
+    ],
+    "year": 2023,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/awad263",
+    "citation_count": 90,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2155899491",
+    "title": "Stopping eye and hand movements: Are the processes independent?",
+    "authors": [
+      "Leanne Boucher",
+      "Veit Stuphorn",
+      "Gordon D. Logan",
+      "Jeffrey D. Schall",
+      "Thomas J. Palmeri"
+    ],
+    "year": 2007,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03193779",
+    "citation_count": 80,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3045274673",
+    "title": "Modeling the influence of working memory, reinforcement, and action uncertainty on reaction time and choice during instrumental learning",
+    "authors": [
+      "Samuel D. McDougle",
+      "Anne Collins"
+    ],
+    "year": 2020,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/s13423-020-01774-z",
+    "citation_count": 71,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2617588660",
+    "title": "Hick\u2013Hyman Law is Mediated by the Cognitive Control Network in the Brain",
+    "authors": [
+      "Tingting Wu",
+      "Alexander J. Dufford",
+      "Laura Egan",
+      "Melissa\u2010Ann Mackie",
+      "Cong Chen",
+      "Changhe Yuan",
+      "Chao Chen",
+      "Xiaobo Li",
+      "Xun Liu",
+      "Patrick R. Hof",
+      "Jin Fan"
+    ],
+    "year": 2017,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhx127",
+    "citation_count": 61,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2766567179",
+    "title": "Action history influences subsequent movement via two distinct processes",
+    "authors": [
+      "Welber Marinovic",
+      "Eugene Poh",
+      "Aymar de Rugy",
+      "Timothy J. Carroll"
+    ],
+    "year": 2017,
+    "journal": "eLife",
+    "doi_or_url": "https://doi.org/10.7554/elife.26713",
+    "citation_count": 59,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3114641667",
+    "title": "Unbiased and efficient log-likelihood estimation with inverse binomial sampling",
+    "authors": [
+      "Bas van Opheusden",
+      "Luigi Acerbi",
+      "Wei Ji"
+    ],
+    "year": 2020,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1008483",
+    "citation_count": 50,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2521386533",
+    "title": "The Capacity of Cognitive Control Estimated from a Perceptual Decision Making Task",
+    "authors": [
+      "Tingting Wu",
+      "Alexander J. Dufford",
+      "Melissa\u2010Ann Mackie",
+      "Laura Egan",
+      "Jin Fan"
+    ],
+    "year": 2016,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/srep34025",
+    "citation_count": 50,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2891711846",
+    "title": "Information Theory and Cognition: A Review",
+    "authors": [
+      "Khalid Sayood"
+    ],
+    "year": 2018,
+    "journal": "Entropy",
+    "doi_or_url": "https://doi.org/10.3390/e20090706",
+    "citation_count": 49,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2148331243",
+    "title": "Time scales of representation in the human brain: weighing past information to predict future events",
+    "authors": [
+      "Lee Harrison"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2011.00037",
+    "citation_count": 45,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2095520154",
+    "title": "Age-related dedifferentiation of cognitive and motor slowing: insight from the comparison of Hick\u2013Hyman and Fitts\u2019 laws",
+    "authors": [
+      "Rita Sleimen-Malkoun",
+      "Jean-Jacques Temprado",
+      "\u00c9ric Berton"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Aging Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnagi.2013.00062",
+    "citation_count": 41,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2094721263",
+    "title": "Similarity and number of alternatives in the random-dot motion paradigm",
+    "authors": [
+      "Leendert van Maanen",
+      "Raoul P. P. P. Grasman",
+      "Birte U. Forstmann",
+      "Max C. Keuken",
+      "Scott Brown",
+      "Eric\u2010Jan Wagenmakers"
+    ],
+    "year": 2012,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-011-0267-7",
+    "citation_count": 36,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3132246219",
+    "title": "Variability of Practice, Information Processing, and Decision Making\u2014How Much Do We Know?",
+    "authors": [
+      "Stanis\u0142aw H. Czy\u017c"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2021.639131",
+    "citation_count": 36,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2093050640",
+    "title": "Innovative clinical assessment technologies: Challenges and opportunities in neuroimaging.",
+    "authors": [
+      "Gregory A. Miller",
+      "Thomas Elbert",
+      "Bradley P. Sutton",
+      "Wendy Heller"
+    ],
+    "year": 2007,
+    "journal": "Psychological Assessment",
+    "doi_or_url": "https://doi.org/10.1037/1040-3590.19.1.58",
+    "citation_count": 35,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2006668061",
+    "title": "Searching for the Majority: Algorithms of Voluntary Control",
+    "authors": [
+      "Jin Fan",
+      "Kevin G. Guise",
+      "Xun Liu",
+      "Hongbin Wang"
+    ],
+    "year": 2008,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0003522",
+    "citation_count": 35,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3117186255",
+    "title": "Activation of the cognitive control network associated with information uncertainty",
+    "authors": [
+      "Tingting Wu",
+      "Kurt P. Schulz",
+      "Jin Fan"
+    ],
+    "year": 2020,
+    "journal": "NeuroImage",
+    "doi_or_url": "https://doi.org/10.1016/j.neuroimage.2020.117703",
+    "citation_count": 33,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2080679747",
+    "title": "Basics for sensorimotor information processing: some implications for learning",
+    "authors": [
+      "Franck Vidal",
+      "C\u00c3\u00a9dric Meckler",
+      "Thierry Hasbroucq"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2015.00033",
+    "citation_count": 32,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2257488937",
+    "title": "The importance of decision onset",
+    "authors": [
+      "Tobias Teichert",
+      "Jack Grinband",
+      "Vincent P. Ferrera"
+    ],
+    "year": 2015,
+    "journal": "Journal of Neurophysiology",
+    "doi_or_url": "https://doi.org/10.1152/jn.00274.2015",
+    "citation_count": 31,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2967737180",
+    "title": "Risk aversion in the adjustment of speed-accuracy tradeoff depending on time constraints",
+    "authors": [
+      "Ryoji Onagawa",
+      "Masahiro Shinya",
+      "Keiji Ota",
+      "Kazutoshi Kudo"
+    ],
+    "year": 2019,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-019-48052-0",
+    "citation_count": 25,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2886532340",
+    "title": "Information Processing: The Language and Analytical Tools for Cognitive Psychology in the Information Age",
+    "authors": [
+      "Aiping Xiong",
+      "Robert W. Proctor"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2018.01270",
+    "citation_count": 24,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2142948678",
+    "title": "Cognitive Control in Majority Search: A Computational Modeling Approach",
+    "authors": [
+      "Hongbin Wang",
+      "Xun Liu",
+      "Jin Fan"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2011.00016",
+    "citation_count": 23,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W854574997",
+    "title": "Task Uncertainty Can Account for Mixing and Switch Costs in Task-Switching",
+    "authors": [
+      "Patrick S. Cooper",
+      "Paul Michael Garrett",
+      "Jaime L. Rennie",
+      "Frini Karayanidis"
+    ],
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0131556",
+    "citation_count": 22,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2239177589",
+    "title": "Simultaneity and Temporal Order Judgments Exhibit Distinct Reaction Times and Training Effects",
+    "authors": [
+      "Nestor Matthews",
+      "Leslie Welch",
+      "Rebecca L. Achtman",
+      "Rachel Fenton",
+      "Brynn FitzGerald"
+    ],
+    "year": 2016,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0145926",
+    "citation_count": 22,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2905156237",
+    "title": "Quantifying Motor Task Performance by Bounded Rational Decision Theory",
+    "authors": [
+      "Sonja Schach",
+      "Sebastian Gottwald",
+      "Daniel A. Braun"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2018.00932",
+    "citation_count": 21,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4294763191",
+    "title": "Reaction time asymmetries provide insight into mechanisms underlying dominant and non-dominant hand selection",
+    "authors": [
+      "Brooke Dexheimer",
+      "Andrzej Przybyla",
+      "Terrence E. Murphy",
+      "Sel\u00e7uk Akp\u0131nar",
+      "Robert L. Sainburg"
+    ],
+    "year": 2022,
+    "journal": "Experimental Brain Research",
+    "doi_or_url": "https://doi.org/10.1007/s00221-022-06451-2",
+    "citation_count": 21,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4393063842",
+    "title": "Value estimation versus effort mobilization: a general dissociation between ventromedial and dorsomedial prefrontal cortex",
+    "authors": [
+      "Nicolas Clairis",
+      "Mathias Pessiglione"
+    ],
+    "year": 2024,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1176-23.2024",
+    "citation_count": 19,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2888654673",
+    "title": "Having More Choices Changes How Human Observers Weight Stable Sensory Evidence",
+    "authors": [
+      "Sirawaj Itthipuripat",
+      "Kexin Cha",
+      "Sean Deering",
+      "Annalisa Salazar",
+      "John T. Serences"
+    ],
+    "year": 2018,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0440-18.2018",
+    "citation_count": 17,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4320733248",
+    "title": "Revisiting embodiment for brain\u2013computer interfaces",
+    "authors": [
+      "Bar\u0131\u015f Serim",
+      "Michiel Spap\u00e9",
+      "Giulio Jacucci"
+    ],
+    "year": 2023,
+    "journal": "Human-Computer Interaction",
+    "doi_or_url": "https://doi.org/10.1080/07370024.2023.2170801",
+    "citation_count": 13,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1983959882",
+    "title": "Rate of information processing and reaction time of aircraft pilots and non-pilots",
+    "authors": [
+      "Werner Barkhuizen",
+      "J. M. Schepers",
+      "J.C. Coetzee"
+    ],
+    "year": 2002,
+    "journal": "SA Journal of Industrial Psychology",
+    "doi_or_url": "https://doi.org/10.4102/sajip.v28i2.53",
+    "citation_count": 11,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2008873465",
+    "title": "Probabilistic Decision Making with Spikes: From ISI Distributions to Behaviour via Information Gain",
+    "authors": [
+      "Javier A. Caballero",
+      "Nathan F. Lepora",
+      "Kevin Gurney"
+    ],
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0124787",
+    "citation_count": 10,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2946369678",
+    "title": "A model of the uncertainty effects in choice reaction time that includes a major contribution from effector selection.",
+    "authors": [
+      "Charles E. Wright",
+      "Valerie F. Marino",
+      "Charles Chubb",
+      "Daniel Mann"
+    ],
+    "year": 2019,
+    "journal": "Psychological Review",
+    "doi_or_url": "https://doi.org/10.1037/rev0000146",
+    "citation_count": 8,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2120383104",
+    "title": "Spared Within-Hands but Impaired Between-Hands Response Preparation in Aging",
+    "authors": [
+      "Jos J. Adam",
+      "R. Jakob",
+      "Thamar J. H. Bovend\u2019Eerdt",
+      "Pascal W. M. Van Gerven"
+    ],
+    "year": 2011,
+    "journal": "The Journals of Gerontology Series B",
+    "doi_or_url": "https://doi.org/10.1093/geronb/gbr105",
+    "citation_count": 8,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2087085609",
+    "title": "Effect of the number of response alternatives on brain activity in response selection",
+    "authors": [
+      "Sung\u2010Ho Woo",
+      "Kyoungmin Lee"
+    ],
+    "year": 2006,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.20317",
+    "citation_count": 7,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2593209073",
+    "title": "Effects of average uncertainty and trial-type frequency on choice response time: A hierarchical extension of Hick/Hyman Law",
+    "authors": [
+      "J. Toby Mordkoff"
+    ],
+    "year": 2017,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/s13423-017-1263-2",
+    "citation_count": 7,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3155769631",
+    "title": "Sensorimotor strategy selection under time constraints in the presence of two motor targets with different values",
+    "authors": [
+      "Ryoji Onagawa",
+      "Kazutoshi Kudo"
+    ],
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-021-01584-w",
+    "citation_count": 7,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1578029441",
+    "title": "Novel Virtual User Models of Mild Cognitive Impairment for Simulating Dementia",
+    "authors": [
+      "Sofia Segkouli",
+      "Ioannis Paliokas",
+      "Dimitrios Tzovaras",
+      "Thanos Tsakiris",
+      "Magda Tsolaki",
+      "Charalampos Karagiannidis"
+    ],
+    "year": 2015,
+    "journal": "Computational and Mathematical Methods in Medicine",
+    "doi_or_url": "https://doi.org/10.1155/2015/358638",
+    "citation_count": 6,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4390889330",
+    "title": "Resource-rational account of sequential effects in human prediction",
+    "authors": [
+      "Arthur Prat-Carrabin",
+      "Florent Meyniel",
+      "Rava Azeredo da Silveira"
+    ],
+    "year": 2023,
+    "journal": "eLife",
+    "doi_or_url": "https://doi.org/10.7554/elife.81256",
+    "citation_count": 6,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2944240735",
+    "title": "Debating International Keynesianism: The Sense of the Acceptable and the Neoliberal Turn at the OECD",
+    "authors": [
+      "Vincent Gayon"
+    ],
+    "year": 2017,
+    "journal": "Annales Histoire Sciences Sociales (English edition)",
+    "doi_or_url": "https://doi.org/10.1017/ahsse.2018.21",
+    "citation_count": 5,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4231457131",
+    "title": "The Before and After: Audience Perceptions of Brand Dimensions of Cultural Products",
+    "authors": [
+      "Rosemary Palegato",
+      "Rune Bjerke",
+      "Nicholas Ind"
+    ],
+    "year": 2013,
+    "journal": "Journal of Euromarketing",
+    "doi_or_url": "https://doi.org/10.9768/0022.01.024",
+    "citation_count": 4,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4284975703",
+    "title": "Baseline hippocampal beta band power is lower in the presence of movement uncertainty",
+    "authors": [
+      "Zachary Gilbert",
+      "Roberto Martin Del Campo-Vera",
+      "Austin M. Tang",
+      "Kuang-Hsuan Chen",
+      "Rinu Sebastian",
+      "Xiecheng Shao",
+      "Emiliano Tabarsi",
+      "Ryan S. Chung",
+      "Andrea Leonor",
+      "Shivani Sundaram",
+      "Christi Heck",
+      "George Nune"
+    ],
+    "year": 2022,
+    "journal": "Journal of Neural Engineering",
+    "doi_or_url": "https://doi.org/10.1088/1741-2552/ac7fb9",
+    "citation_count": 4,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2282269414",
+    "title": "Urban policy for sustainable development: Taking a wide-angle view",
+    "authors": [
+      "Donald Alexander",
+      "Ray Tomalty"
+    ],
+    "year": 1994,
+    "journal": "VIUSpace (Vancouver Island University Library)",
+    "doi_or_url": "https://doi.org/10.25316/anb4-hx44",
+    "citation_count": 3,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4213012468",
+    "title": "The oculomotor signature of expected surprise",
+    "authors": [
+      "Dominika Dr\u0105\u017cyk",
+      "Marcus Missal"
+    ],
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-022-06403-4",
+    "citation_count": 3,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2292575103",
+    "title": "Human Manual Control as an Information Processing Channel",
+    "authors": [
+      "Mircea Lupu"
+    ],
+    "year": 2013,
+    "journal": "D-Scholarship@Pitt (University of Pittsburgh)",
+    "doi_or_url": "https://openalex.org/W2292575103",
+    "citation_count": 3,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4292997377",
+    "title": "Computational Modeling of an Auditory Lexical Decision Experiment Using DIANA",
+    "authors": [
+      "Filip Nenadi\u0107",
+      "Benjamin V. Tucker",
+      "Louis ten Bosch"
+    ],
+    "year": 2022,
+    "journal": "Language and Speech",
+    "doi_or_url": "https://doi.org/10.1177/00238309221111752",
+    "citation_count": 3,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4284675797",
+    "title": "Are monkeys sensitive to informativeness: An experimental study with baboons (Papio papio)",
+    "authors": [
+      "Anne Reboul",
+      "Olivier Mascaro",
+      "Nicolas Claidi\u00e8re",
+      "Jo\u00ebl Fagot"
+    ],
+    "year": 2022,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0270502",
+    "citation_count": 3,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3193315289",
+    "title": "Information-Theoretic Quantification of Dedifferentiation in the Aging of Motor and Executive Functions",
+    "authors": [
+      "Erik C. Chang"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Aging Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnagi.2021.634089",
+    "citation_count": 2,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4241617856",
+    "title": "The Effectiveness of Openness in Advertising for Familiar and Unfamiliar Brands in Different Nationalities",
+    "authors": [
+      "P.E. Ketelaar",
+      "Stijn Maesen",
+      "Liesbeth Linssen"
+    ],
+    "year": 2013,
+    "journal": "Journal of Euromarketing",
+    "doi_or_url": "https://doi.org/10.9768/0022.01-1.005",
+    "citation_count": 2,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4214621715",
+    "title": "Private Label Brand Trends in the Grocery Retail Industry",
+    "authors": [
+      "Ranga Chimhundu",
+      "Doren Chadee"
+    ],
+    "year": 2013,
+    "journal": "Journal of Euromarketing",
+    "doi_or_url": "https://doi.org/10.9768/0022.01.036",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2597443060",
+    "title": "Learning to search. The importance of eye movements in the decrease of response times during a visual choice reaction time task",
+    "authors": [
+      "Aleksandra Kroll",
+      "Monika Mak",
+      "Jerzy Samochowiec"
+    ],
+    "year": 2016,
+    "journal": "Journal of Eye Movement Research",
+    "doi_or_url": "https://doi.org/10.16910/jemr.9.5.5",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4246503855",
+    "title": "The Effectiveness of Openness in Advertising for Familiar and Unfamiliar Brands in Different Nationalities",
+    "authors": [
+      "P.E. Ketelaar",
+      "Stijn Maesen",
+      "Liesbeth Linssen"
+    ],
+    "year": 2013,
+    "journal": "Journal of Euromarketing",
+    "doi_or_url": "https://doi.org/10.9768/0022.01.005",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2171254681",
+    "title": "SYFSA: A framework for Systematic Yet Flexible Systems Analysis",
+    "authors": [
+      "Todd R. Johnson",
+      "Eliz Markowitz",
+      "Elmer V. Bernstam",
+      "Jorge R Herskovic",
+      "Harold Thimbleby"
+    ],
+    "year": 2013,
+    "journal": "Journal of Biomedical Informatics",
+    "doi_or_url": "https://doi.org/10.1016/j.jbi.2013.05.003",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4236889156",
+    "title": "Analytical Approach to Neuromarketing as a Business Strategy",
+    "authors": [
+      "Jos\u00e9\u0301 G. Vargas-Hern\u00e1ndez",
+      "Asela A. Burgos-Campero"
+    ],
+    "year": 2013,
+    "journal": "Journal of Euromarketing",
+    "doi_or_url": "https://doi.org/10.9768/0022.01.064",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4255995450",
+    "title": "Analytical Approach to Neuromarketing as a Business Strategy",
+    "authors": [
+      "Jos\u00e9\u0301 G. Vargas-Hern\u00e1ndez",
+      "Asela A. Burgos-Campero"
+    ],
+    "year": 2013,
+    "journal": "Journal of Euromarketing",
+    "doi_or_url": "https://doi.org/10.9768/0022.01-2.064",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2608816145",
+    "title": "The Development of a Human Operator Informatic Model (HOIM) Incorporating the Effects of Non-Invasive Brain Stimulation on Information Processing while Performing Multi-Attribute Task Battery (MATB)",
+    "authors": [
+      "Justin Nelson"
+    ],
+    "year": 2016,
+    "journal": "Journal of Bioresource Management",
+    "doi_or_url": "https://openalex.org/W2608816145",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1523914558",
+    "title": "Private Label Brand Trends in the Grocery Retail Industry",
+    "authors": [
+      "Ranga Chimhundu",
+      "Doren Chadee"
+    ],
+    "year": 2013,
+    "journal": "Journal of Euromarketing",
+    "doi_or_url": "https://doi.org/10.9768/0022.01-2.036",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4247255751",
+    "title": "Factors that Affect Online Purchasing Behavior: An Analysis with Technology Acceptance Model, Trust and Subjective Norms",
+    "authors": [
+      "Ramazan Aksoy",
+      "Umit Basaran"
+    ],
+    "year": 2013,
+    "journal": "Journal of Euromarketing",
+    "doi_or_url": "https://doi.org/10.9768/0022.01.048",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4408698281",
+    "title": "Spatial Uncertainty and Information Processing Speed in Infants and Adults: Age Differences in Saccadic Reaction Time Sensitivity",
+    "authors": [
+      "Scott A. Adler",
+      "Thomas J. Baker"
+    ],
+    "year": 2025,
+    "journal": "Journal of Cognition and Development",
+    "doi_or_url": "https://doi.org/10.1080/15248372.2025.2480071",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4414010878",
+    "title": "Action subsampling supports policy compression in large action spaces",
+    "authors": [
+      "Shuze Liu",
+      "Samuel J. Gershman"
+    ],
+    "year": 2025,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1013444",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2804902168",
+    "title": "Essays on institutional economics",
+    "authors": [
+      "Denilson Beal"
+    ],
+    "year": 2018,
+    "journal": "UFPR Digital Collection (Federal University of Paran\u00e1)",
+    "doi_or_url": "https://openalex.org/W2804902168",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4301407013",
+    "title": "Paradigm Shift: Engineering Artificial Intelligence And Management Strategies Fusion",
+    "authors": [
+      "A. H. Harb",
+      "AKA Abd Alhameed Abd Alhameed Alsayyid"
+    ],
+    "year": 2017,
+    "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+    "doi_or_url": "https://doi.org/10.5281/zenodo.848050",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4206517718",
+    "title": "The Entrance of New Products in the Cretan Market",
+    "authors": [
+      "Eleni Angelaki",
+      "George Baltas",
+      "George Baourakis",
+      "Constantin Zopounidis"
+    ],
+    "year": 2013,
+    "journal": "Journal of Euromarketing",
+    "doi_or_url": "https://doi.org/10.9768/0022.01.074",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4252753030",
+    "title": "The Before and After: Audience Perceptions of Brand Dimensions of Cultural Products",
+    "authors": [
+      "Rosemary Palegato",
+      "Rune Bjerke",
+      "Nicholas Ind"
+    ],
+    "year": 2013,
+    "journal": "Journal of Euromarketing",
+    "doi_or_url": "https://doi.org/10.9768/0022.01-2.024",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2488815965",
+    "title": "Behavioural morphisms in virtual environments",
+    "authors": [
+      "Simon Peter Nee"
+    ],
+    "year": 2001,
+    "journal": "Figshare",
+    "doi_or_url": "https://openalex.org/W2488815965",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4251071913",
+    "title": "The Entrance of New Products in the Cretan Market",
+    "authors": [
+      "Eleni Angelaki",
+      "George Baltas",
+      "George Baourakis",
+      "Constantin Zopounidis"
+    ],
+    "year": 2013,
+    "journal": "Journal of Euromarketing",
+    "doi_or_url": "https://doi.org/10.9768/0022.01-2.074",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W7073875612",
+    "title": "Cognitive control in majority search: a computational modeling approach",
+    "authors": [
+      "Wang, Hongbin",
+      "Liu, Xun",
+      "Fan, Jin",
+      "Wang, HB (reprint author), Univ Texas Hlth Sci Ctr Houston, Sch Biomed Informat, 7000 Fannin Suite 600, Houston, TX 77030 USA."
+    ],
+    "year": 2011,
+    "journal": "Institutional Repository of Institute of Psychology, Chinese Academy of Sciences (Institute of Psychology, Chinese Academy of Sciences)",
+    "doi_or_url": "https://openalex.org/W7073875612",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2946869327",
+    "title": "A re-investigation of Hick's law and its implications for information processing",
+    "authors": [
+      "Malcolm R Dunn"
+    ],
+    "year": 2019,
+    "journal": "Digital Scholarship - UNLV (University of Nevada Reno)",
+    "doi_or_url": "https://doi.org/10.25669/4mml-eeyt",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3093593641",
+    "title": "An Agent Based Model to Assess Crew Temporal Variability During U.S. Navy Shipboard Operations",
+    "authors": [
+      "Kevin Muhs"
+    ],
+    "year": 2018,
+    "journal": "Journal of International Crisis and Risk Communication Research",
+    "doi_or_url": "https://openalex.org/W3093593641",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2624779685",
+    "title": "The role of affordance perception in action-selection",
+    "authors": [
+      "Tehran J. Davis"
+    ],
+    "year": 2012,
+    "journal": "OhioLink ETD Center (Ohio Library and Information Network)",
+    "doi_or_url": "https://openalex.org/W2624779685",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2602879043",
+    "title": "Reviving a Natural Right: The Freedom of Autonomy Amendment",
+    "authors": [
+      "Michael A. Lawrence"
+    ],
+    "year": 2005,
+    "journal": "Unknown",
+    "doi_or_url": "https://openalex.org/W2602879043",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3036822220",
+    "title": "An Information-Theoretic Account of Semantic Interference in Word Production",
+    "authors": [
+      "Richard Futrell"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2021.672408",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4387196999",
+    "title": "Information-Theoretic Neural Decoding Reproduces Several Laws of Human Behavior",
+    "authors": [
+      "S. Thomas Christie",
+      "Hayden R. Johnson",
+      "Paul Schrater"
+    ],
+    "year": 2023,
+    "journal": "Open Mind",
+    "doi_or_url": "https://doi.org/10.1162/opmi_a_00101",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2747020580",
+    "title": "Examining the Role of Cardiovascular and Cognitive Fitness in Goal-directed Aiming Across the Lifespan",
+    "authors": [
+      "Michael A. Rupp"
+    ],
+    "year": 2017,
+    "journal": "Journal of International Crisis and Risk Communication Research",
+    "doi_or_url": "https://openalex.org/W2747020580",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W7168528815",
+    "title": "A Bibliometric Review of Human Factors-Based In-Vehicle Human-Machine Interface Design",
+    "authors": [
+      "Ya Gao",
+      "Quan Yuan",
+      "Ruhai Jiang",
+      "Tao Gu",
+      "Jingyu Li",
+      "Kai She",
+      "Baoru Gong"
+    ],
+    "year": 2026,
+    "journal": "Human-Centric Intelligent Systems",
+    "doi_or_url": "https://doi.org/10.1007/s44230-026-00163-4",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2404816952",
+    "title": "A Bayesian Sequential Sampling Model of Choice Reaction Time Incorporating Stimulus Onset/Duration Uncertainty",
+    "authors": [
+      "Jordan Meyer",
+      "Zhang Jun"
+    ],
+    "year": 2014,
+    "journal": "eScholarship (California Digital Library)",
+    "doi_or_url": "https://openalex.org/W2404816952",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W67071679",
+    "title": "A Model of Dynamic Choice, Confidence, and Motor Response",
+    "authors": [
+      "K. C. Olson"
+    ],
+    "year": 2011,
+    "journal": "OhioLink ETD Center (Ohio Library and Information Network)",
+    "doi_or_url": "https://openalex.org/W67071679",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

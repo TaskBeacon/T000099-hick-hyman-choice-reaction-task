@@ -1,0 +1,19 @@
+id: T000099
+slug: hick-hyman-choice-reaction-task
+title: Hick–Hyman Choice Reaction Task
+acquisition: behavior
+variant: baseline
+cognitive_domain: [choice-reaction-time, information-processing, response-selection]
+maturity: draft
+version:
+  release_tag: v0.1.0
+contracts:
+  taps: v0.2.0
+runtime:
+  profile: psyflow
+evidence:
+  - https://doi.org/10.1080/17470215208416600
+  - https://doi.org/10.1037/h0056940
+  - https://doi.org/10.1080/17470218.2017.1322622
+  - https://doi.org/10.1038/s41593-019-0453-9
+maintainer: [TaskBeacon]

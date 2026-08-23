@@ -1,0 +1,183 @@
+subinfo_fields:
+  - {name: subject_id, type: int, constraints: {min: 101, max: 999, digits: 3}}
+subinfo_mapping:
+  subject_id: 受试编号（3 位）
+  Participant Information: 参与者信息
+  registration_failed: 登记失败
+  registration_successful: 登记成功
+  invalid_input: "{field} 输入无效"
+
+window:
+  size: [1280, 800]
+  units: pix
+  screen: 0
+  bg_color: "#F4F4F2"
+  fullscreen: false
+  monitor_width_cm: 35.5
+  monitor_distance_cm: 57
+
+task:
+  task_name: hick-hyman-choice-reaction-task
+  save_path: ./outputs/human
+  language: Chinese
+  voice_name: zh-CN-YunyangNeural
+  voice_enabled: false
+  total_blocks: 3
+  total_trials: 96
+  trial_per_block: 32
+  conditions: [n2_p4, n2_p5, n4_p3, n4_p4, n4_p5, n4_p6, n8_p1, n8_p2, n8_p3, n8_p4, n8_p5, n8_p6, n8_p7, n8_p8]
+  condition_weights: null
+  set_sizes: [2, 4, 8]
+  block_orders: [[2, 4, 8], [2, 8, 4], [4, 2, 8], [4, 8, 2], [8, 2, 4], [8, 4, 2]]
+  response_keys: [a, s, d, f, j, k, l, ";"]
+  key_list: [space, a, s, d, f, j, k, l, ";"]
+  seed_mode: same_within_sub
+  overall_seed: 99099
+  delta: 0.0
+  phase_order: [instruction, block_instruction, fixation, choice_response, error_feedback, iti, block_break, good_bye]
+  choice_sets:
+    "2": {information_bits: 1, key_display: "F　J", condition_ids: [n2_p4, n2_p5]}
+    "4": {information_bits: 2, key_display: "D　F　J　K", condition_ids: [n4_p3, n4_p4, n4_p5, n4_p6]}
+    "8": {information_bits: 3, key_display: "A　S　D　F　J　K　L　;", condition_ids: [n8_p1, n8_p2, n8_p3, n8_p4, n8_p5, n8_p6, n8_p7, n8_p8]}
+  condition_specs:
+    n2_p4: {set_size: 2, information_bits: 1, stimulus_probability: 0.5, target_position: 4, correct_key: f, active_keys: [f, j], active_outline_ids: [outline_4, outline_5], target_stim_id: target_4}
+    n2_p5: {set_size: 2, information_bits: 1, stimulus_probability: 0.5, target_position: 5, correct_key: j, active_keys: [f, j], active_outline_ids: [outline_4, outline_5], target_stim_id: target_5}
+    n4_p3: {set_size: 4, information_bits: 2, stimulus_probability: 0.25, target_position: 3, correct_key: d, active_keys: [d, f, j, k], active_outline_ids: [outline_3, outline_4, outline_5, outline_6], target_stim_id: target_3}
+    n4_p4: {set_size: 4, information_bits: 2, stimulus_probability: 0.25, target_position: 4, correct_key: f, active_keys: [d, f, j, k], active_outline_ids: [outline_3, outline_4, outline_5, outline_6], target_stim_id: target_4}
+    n4_p5: {set_size: 4, information_bits: 2, stimulus_probability: 0.25, target_position: 5, correct_key: j, active_keys: [d, f, j, k], active_outline_ids: [outline_3, outline_4, outline_5, outline_6], target_stim_id: target_5}
+    n4_p6: {set_size: 4, information_bits: 2, stimulus_probability: 0.25, target_position: 6, correct_key: k, active_keys: [d, f, j, k], active_outline_ids: [outline_3, outline_4, outline_5, outline_6], target_stim_id: target_6}
+    n8_p1: {set_size: 8, information_bits: 3, stimulus_probability: 0.125, target_position: 1, correct_key: a, active_keys: [a, s, d, f, j, k, l, ";"], active_outline_ids: [outline_1, outline_2, outline_3, outline_4, outline_5, outline_6, outline_7, outline_8], target_stim_id: target_1}
+    n8_p2: {set_size: 8, information_bits: 3, stimulus_probability: 0.125, target_position: 2, correct_key: s, active_keys: [a, s, d, f, j, k, l, ";"], active_outline_ids: [outline_1, outline_2, outline_3, outline_4, outline_5, outline_6, outline_7, outline_8], target_stim_id: target_2}
+    n8_p3: {set_size: 8, information_bits: 3, stimulus_probability: 0.125, target_position: 3, correct_key: d, active_keys: [a, s, d, f, j, k, l, ";"], active_outline_ids: [outline_1, outline_2, outline_3, outline_4, outline_5, outline_6, outline_7, outline_8], target_stim_id: target_3}
+    n8_p4: {set_size: 8, information_bits: 3, stimulus_probability: 0.125, target_position: 4, correct_key: f, active_keys: [a, s, d, f, j, k, l, ";"], active_outline_ids: [outline_1, outline_2, outline_3, outline_4, outline_5, outline_6, outline_7, outline_8], target_stim_id: target_4}
+    n8_p5: {set_size: 8, information_bits: 3, stimulus_probability: 0.125, target_position: 5, correct_key: j, active_keys: [a, s, d, f, j, k, l, ";"], active_outline_ids: [outline_1, outline_2, outline_3, outline_4, outline_5, outline_6, outline_7, outline_8], target_stim_id: target_5}
+    n8_p6: {set_size: 8, information_bits: 3, stimulus_probability: 0.125, target_position: 6, correct_key: k, active_keys: [a, s, d, f, j, k, l, ";"], active_outline_ids: [outline_1, outline_2, outline_3, outline_4, outline_5, outline_6, outline_7, outline_8], target_stim_id: target_6}
+    n8_p7: {set_size: 8, information_bits: 3, stimulus_probability: 0.125, target_position: 7, correct_key: l, active_keys: [a, s, d, f, j, k, l, ";"], active_outline_ids: [outline_1, outline_2, outline_3, outline_4, outline_5, outline_6, outline_7, outline_8], target_stim_id: target_7}
+    n8_p8: {set_size: 8, information_bits: 3, stimulus_probability: 0.125, target_position: 8, correct_key: ";", active_keys: [a, s, d, f, j, k, l, ";"], active_outline_ids: [outline_1, outline_2, outline_3, outline_4, outline_5, outline_6, outline_7, outline_8], target_stim_id: target_8}
+
+timing:
+  fixation_duration_s: 0.50
+  response_timeout_s: 2.00
+  error_feedback_duration_s: 0.50
+  iti_duration_s: 0.70
+  post_delay_s: 0.001
+
+stimuli:
+  instruction_text:
+    type: text
+    font: SimHei
+    text: |-
+      Hick–Hyman 选择反应任务
+
+      每个试次会出现 2、4 或 8 个圆框，其中一个位置出现黑色实心圆点。
+      请尽快且准确地按下与圆点位置对应的键。
+
+      八个位置从左到右对应：
+      A　S　D　F　J　K　L　;
+
+      2 选一区组只使用 F/J；4 选一区组使用 D/F/J/K。
+      每个区组开始前会再次显示当前有效键。
+
+      请将手指放在响应键上。按空格键继续。
+    color: "#171717"
+    height: 28
+    wrapWidth: 1080
+    pos: [0, 0]
+  block_instruction_text:
+    type: text
+    font: SimHei
+    text: |-
+      第 {block_num} / {total_blocks} 区组
+
+      本区组有 {set_size} 个等概率选项（{information_bits} bit）。
+      从左到右的有效键：
+
+      {active_keys}
+
+      准备好后按空格键开始。
+    color: "#171717"
+    height: 32
+    wrapWidth: 1000
+    pos: [0, 0]
+  fixation: {type: text, font: SimHei, text: "+", color: "#171717", height: 42, pos: [0, 0]}
+  error_feedback_text: {type: text, font: SimHei, text: "按键 {pressed_key} 不正确\n\n正确键：{correct_key}", color: "#B42318", height: 30, wrapWidth: 900, pos: [0, 0]}
+  timeout_feedback_text: {type: text, font: SimHei, text: "未检测到响应\n\n正确键：{correct_key}", color: "#B42318", height: 30, wrapWidth: 900, pos: [0, 0]}
+  block_break_text:
+    type: text
+    font: SimHei
+    text: |-
+      第 {block_num} / {total_blocks} 区组完成（{set_size} 选一）
+
+      正确率：{accuracy:.1%}
+      正确反应平均时：{mean_correct_rt_ms:.1f} ms
+
+      请短暂休息，准备好后按空格键继续。
+    color: "#171717"
+    height: 30
+    wrapWidth: 1000
+    pos: [0, 0]
+  good_bye_text:
+    type: text
+    font: SimHei
+    text: |-
+      任务结束
+
+      总正确率：{accuracy:.1%}　漏答率：{timeout_rate:.1%}
+      2 选一平均 RT：{mean_rt_n2_ms:.1f} ms
+      4 选一平均 RT：{mean_rt_n4_ms:.1f} ms
+      8 选一平均 RT：{mean_rt_n8_ms:.1f} ms
+
+      Hick 斜率：{hick_slope_ms_per_bit:.1f} ms/bit
+      线性拟合 R²：{hick_r_squared:.3f}
+
+      感谢参与。按空格键退出。
+    color: "#171717"
+    height: 28
+    wrapWidth: 1000
+    pos: [0, 0]
+  outline_1: {type: circle, radius: 48, fillColor: "#F4F4F2", lineColor: "#4B5563", lineWidth: 4, pos: [-525, 0]}
+  outline_2: {type: circle, radius: 48, fillColor: "#F4F4F2", lineColor: "#4B5563", lineWidth: 4, pos: [-375, 0]}
+  outline_3: {type: circle, radius: 48, fillColor: "#F4F4F2", lineColor: "#4B5563", lineWidth: 4, pos: [-225, 0]}
+  outline_4: {type: circle, radius: 48, fillColor: "#F4F4F2", lineColor: "#4B5563", lineWidth: 4, pos: [-75, 0]}
+  outline_5: {type: circle, radius: 48, fillColor: "#F4F4F2", lineColor: "#4B5563", lineWidth: 4, pos: [75, 0]}
+  outline_6: {type: circle, radius: 48, fillColor: "#F4F4F2", lineColor: "#4B5563", lineWidth: 4, pos: [225, 0]}
+  outline_7: {type: circle, radius: 48, fillColor: "#F4F4F2", lineColor: "#4B5563", lineWidth: 4, pos: [375, 0]}
+  outline_8: {type: circle, radius: 48, fillColor: "#F4F4F2", lineColor: "#4B5563", lineWidth: 4, pos: [525, 0]}
+  target_1: {type: circle, radius: 32, fillColor: "#171717", lineColor: "#171717", pos: [-525, 0]}
+  target_2: {type: circle, radius: 32, fillColor: "#171717", lineColor: "#171717", pos: [-375, 0]}
+  target_3: {type: circle, radius: 32, fillColor: "#171717", lineColor: "#171717", pos: [-225, 0]}
+  target_4: {type: circle, radius: 32, fillColor: "#171717", lineColor: "#171717", pos: [-75, 0]}
+  target_5: {type: circle, radius: 32, fillColor: "#171717", lineColor: "#171717", pos: [75, 0]}
+  target_6: {type: circle, radius: 32, fillColor: "#171717", lineColor: "#171717", pos: [225, 0]}
+  target_7: {type: circle, radius: 32, fillColor: "#171717", lineColor: "#171717", pos: [375, 0]}
+  target_8: {type: circle, radius: 32, fillColor: "#171717", lineColor: "#171717", pos: [525, 0]}
+
+triggers:
+  map:
+    experiment_start: 1
+    experiment_end: 99
+    block_start: 10
+    block_end: 19
+    trial_start: 20
+    fixation_onset: 21
+    target_n2: 32
+    target_n4: 34
+    target_n8: 38
+    response_a: 41
+    response_s: 42
+    response_d: 43
+    response_f: 44
+    response_j: 45
+    response_k: 46
+    response_l: 47
+    response_semicolon: 48
+    response_timeout: 49
+    error_feedback_onset: 50
+    iti_onset: 60
+    instruction_onset: 70
+    block_instruction_onset: 71
+    block_break_onset: 72
+    good_bye_onset: 73
+  driver: {type: serial_url, url: "loop://", baudrate: 115200, timeout: 1}
+  policy: {strict: false}
+  timing: {post_delay_s: 0.001}
